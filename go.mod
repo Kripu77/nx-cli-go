@@ -1,4 +1,4 @@
-module github.com/mwiater/golangcliscaffold
+module nx-cli-go
 
 go 1.23.4
 
